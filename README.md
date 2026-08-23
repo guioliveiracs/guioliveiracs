@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme 👋
+# Olá!! Eu sou o Guilherme Oliveira
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Fatec Guarulhos
 
