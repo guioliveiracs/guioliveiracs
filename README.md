@@ -1,8 +1,11 @@
 # Olá, eu sou o Guilherme 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Fatec Guarulhos
+
 🔄 Migrando de **infraestrutura de TI** para **desenvolvimento de sistemas**
+
 💻 Estudando **Java** atualmente
+
 🌱 Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos
 
 ### 📫 Contato
