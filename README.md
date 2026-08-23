@@ -4,7 +4,7 @@
 
 🔄 Migrando de **infraestrutura de TI** para **desenvolvimento de sistemas**
 
-💻 Estudando **Java** atualmente
+💻 Estudando **Java**
 
 🌱 Técnico em Desenvolvimento de Sistemas pela Etec Guarulhos
 
